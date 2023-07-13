@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-icons-example/static/css/main.d2942010.css",
+    "main.js": "/react-icons-example/static/js/main.91c2ea4b.js",
+    "index.html": "/react-icons-example/index.html",
+    "main.d2942010.css.map": "/react-icons-example/static/css/main.d2942010.css.map",
+    "main.91c2ea4b.js.map": "/react-icons-example/static/js/main.91c2ea4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2942010.css",
+    "static/js/main.91c2ea4b.js"
+  ]
+}
